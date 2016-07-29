@@ -16,6 +16,6 @@ _This is a simple blog style website about the Welsh Corgi dog that is created t
 
 ## Technologies Used
 
-_HTML - emphasis on using the div class HTML tag to style a page._
+_HTML - emphasis on using the div class HTML tag to style a page. Padding and Margin have been added to each section._
 
 Copyright (c) 2016 **_Kevin Mizway_**
